@@ -62,9 +62,9 @@ The **makeufacturing movement** offers an antidote to our increasingly virtual e
 
 
 
-### :speech_balloon: Suggestions / Questions / Feedback
+### :speech_balloon: Questions / Suggestions / Feedback
 
-Have an idea or found a bug? Let us know by filing an issue or sharing your thoughts/questions! 
+Have an idea or found a bug? Let us know by **[filing an issue](https://github.com/Makeufacturing/MKFG/issues)** or sharing your **[thoughts/questions](https://github.com/Makeufacturing/MKFG/discussions)** with the community!
 
 
 
