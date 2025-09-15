@@ -1,6 +1,6 @@
 # Makeufacturing
 
-<img src="./_about/mkfg_logo.png" alt="mkfg_logo" style="max-height: 128px;" /> 
+<img src="./_about/mkfg_logo.png" alt="mkfg_logo" width="128" height="128" style="max-height: 128px;" /> 
 
 **[Makeufacturing](https://mkfg.org)** (#mkfg) builds on the maker movement to form a **sustainable *maker economy***, putting the means of production into the hands of makers themselves to **create unique, inventive products** and **produce them at scale** with their own tools &mdash; all **fully inclusive and openly shared**.
 
