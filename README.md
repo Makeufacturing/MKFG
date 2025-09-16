@@ -20,11 +20,11 @@ In comparison, a **makeufacturing bakery costs about 100x less** (~\$1,250 to st
 
 Makeufacturing is built around these key **extensions of the maker approach**:
 
-**[Amplify](./Amplify_ExtendingMakerTools/)**: Existing maker-level tools are an integral part of small-scale manufacturing; they just require some clever thinking to obtain more efficient operation and improve reliability (via print settings, batch processing, material selection, etc.).
+**[Amplify](./Amplify_CommonMakerTools/)**: Existing maker-level tools are an integral part of small-scale manufacturing; they just require some clever thinking to obtain more efficient operation and improve reliability (via print settings, batch processing, material selection, etc.).
 
-**[Build](./Build_ConstructingNewMakerTools/)**: New DIY tools enable automating various parts of production that are tedious, time consuming, labor-intensive, or difficult to manually control (feeding raw materials, processing, bundling, verification, packaging, labeling, etc.).
+**[Build](./Build_NewToolsForMKFG/)**: New DIY tools enable automating various parts of production that are tedious, time consuming, labor-intensive, or difficult to manually control (feeding raw materials, processing, bundling, verification, packaging, labeling, etc.).
 
-**[Conduct](./Conduct_MKFGSystemExamples/)**: Putting together these new and existing maker tools enables scalable production. See these examples to get a sense for how all of the elements can be combined to support specific MKFG business ventures.
+**[Conduct](./Conduct_ExamplesOfMKFGSystems/)**: Putting together these new and existing maker tools enables scalable production. See these examples to get a sense for how all of the elements can be combined to support specific MKFG business ventures.
 
 **[Distribute](./Distribute_HowWhenWhereToEarn/)**: Alternative models of distribution provide makers with a way to get their products into customers' hands without the overhead of consignment or leasing brick-and-mortar spaces. Not depending on large online and offline retailers benefits both the maker and the buyer (self-serve, on-site, bulk distribution, direct-to-consumer transactions, pay-what-you-wish pricing, etc.).
 
@@ -65,6 +65,12 @@ The **makeufacturing movement** offers an antidote to our increasingly virtual e
 ### :speech_balloon: Questions / Suggestions / Feedback
 
 Have an idea or found a bug? Let us know by **[filing an issue](https://github.com/Makeufacturing/MKFG/issues)** or sharing your **[thoughts/questions](https://github.com/Makeufacturing/MKFG/discussions)** with the community!
+
+
+
+### :hand: Safety Disclaimer
+
+> Working with automated equipment, electronics, power tools, hazardous chemicals, and DIY manufacturing systems requires proper precautions. Always wear appropriate safety gear including eye protection, gloves, and respiratory equipment when needed. Consult qualified professionals before working with electrical systems, chemicals, or complex machinery. Keep bystanders clear of operating equipment. Never leave automated systems unattended during operation. Ensure proper ventilation when working with fumes, dust, or chemical vapors. This information is for educational purposes only and does not replace professional safety training or equipment manufacturer instructions. This site and its contributors will not be held liable. **Use at your own risk.**
 
 
 
