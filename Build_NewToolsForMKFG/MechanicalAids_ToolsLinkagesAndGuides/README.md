@@ -1,8 +1,8 @@
 [MKFG](../../) / [Build](../)
 
-# Mechanical Aids
+# Mechanical Aids (Tools, Linkages, and Guides)
 
-Sometimes having just the right tool can make all the difference. Even if it's just a simple stick of wood or organization caddy to make your process more efficient and easier to perform.
+Sometimes having the right tool can make all the difference. Even if it's just a simple stick of wood or organization caddy to make your process more efficient and easier to perform.
 
 
 

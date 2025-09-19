@@ -1,6 +1,6 @@
 [MKFG](../../) / [Build](../)
 
-# Electro-Mechanical Systems (Robotics)
+# Electro-Mechanical Systems (MKFG Robotics)
 
 
 
