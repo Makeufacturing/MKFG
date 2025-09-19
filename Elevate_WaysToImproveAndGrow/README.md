@@ -1,6 +1,8 @@
-# MKFG / Elevate
+[MKFG](../)
 
-Getting your first product out the door is just the beginning. Once you're up and running, it's important to consider new ways to improve and grow your makeufacturing venture over time to stay relevant and keep your business working as well as possible.
+# Elevate
+
+Getting your first product out the door is just the beginning. Once you're up and running, it's important to consider new **ways to improve and grow** your makeufacturing venture over time to stay relevant and keep your business working as well as possible.
 
 
 

@@ -1,6 +1,8 @@
-# MKFG / Amplify
+[MKFG](../)
 
-Existing maker-level tools are an integral part of small-scale manufacturing; they just require some clever thinking to obtain more efficient operation and improve reliability (via print settings, batch processing, material selection, etc.).
+# Amplify
+
+**Existing maker-level tools** are an integral part of small-scale manufacturing; they just require some clever thinking to obtain more efficient operation and improve reliability (via print settings, batch processing, material selection, etc.).
 
 
 

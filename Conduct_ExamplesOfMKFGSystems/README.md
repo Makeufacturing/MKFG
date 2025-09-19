@@ -1,6 +1,8 @@
-# MKFG / Conduct
+[MKFG](../)
 
-Putting together new and existing maker tools into bespoke manufacturing systems can enable scalable production. See these examples to get a sense for how all of the elements can be combined to support specific MKFG business ventures.
+# Conduct
+
+Putting together new and existing maker tools into bespoke manufacturing systems can enable scalable production. See these **examples of MKFG systems** to get a sense for how all of the elements can be combined to support specific MKFG business ventures.
 
 
 

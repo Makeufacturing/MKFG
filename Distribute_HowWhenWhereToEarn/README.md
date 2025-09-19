@@ -1,4 +1,8 @@
-# MKFG / Distribute
+[MKFG](../)
+
+# Distribute
+
+You've makeufacturing something awesome, but **how, when, and where do you earn** money from what you've created?
 
 Alternative models of distribution provide makers with a way to get their products into customers' hands without the overhead of consignment or leasing brick-and-mortar spaces. Not depending on large online and offline retailers benefits both the maker and the buyer (self-serve, on-site, bulk distribution, direct-to-consumer transactions, pay-what-you-wish pricing, etc.).
 

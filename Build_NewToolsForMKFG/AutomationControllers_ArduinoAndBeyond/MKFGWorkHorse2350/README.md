@@ -23,7 +23,7 @@ For many mkfg builds, the **specific core needs include**:
 So we made a simple credit card-sized board, the **MKFG WorkHorse**, that includes all of that together; it's built around **open source hardware, software, and mechanical engineering projects** that allow any curious tinkerers to get their hands dirty and build whatever is needed.
 
 - <img src="./CircuitBoard/MKFG-WorkHorse-2350-1.2.7_schematic.png" alt="hero image" width="128" style="max-width: 128px;" /> <a href="./CircuitBoard/MKFG-WorkHorse-2350-1.2.7_schematic.pdf">MKFG WorkHorse schematic, v1.2.7</a> (PDF)
-- <img src="./CircuitBoard/MKFG-WorkHorse-2350-1.2.7_pcb.png" alt="hero image" width="128" style="max-width: 128px;" /> <a href="MKFG-WorkHorse-2350-1.2.7_KICAD_ARCHIVE.zip">MKFG WorkHorse PCB files, v1.2.7</a> (KiCAD Archive, ready to fab via JLCPCB)
+- <img src="./CircuitBoard/MKFG-WorkHorse-2350-1.2.7_pcb.png" alt="hero image" width="128" style="max-width: 128px;" /> <a href="./CircuitBoard/MKFG-WorkHorse-2350-1.2.7_KICAD_ARCHIVE.zip">MKFG WorkHorse PCB files, v1.2.7</a> (KiCAD Archive, ready to fab via JLCPCB)
 
 
 
@@ -33,7 +33,7 @@ So we made a simple credit card-sized board, the **MKFG WorkHorse**, that includ
 
 Since we have a dedicated control board, we can now create a standardized library that takes care of all the low-level details in just a couple lines of code!
 
-Install the <a href="./ArduinoLibrary/">MKFG Arduino library</a> so your project can use it.
+Install the <a href="./ArduinoLibrary/MKFG/">MKFG Arduino library</a> so your project can use it.
 
 Then in your project, just `#include <MKFG.h>` and create an instance variable via `MKFGWorkHorse2350 mkfg = MKFGWorkHorse2350();`.
 

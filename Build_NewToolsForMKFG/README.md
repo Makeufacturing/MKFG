@@ -1,6 +1,8 @@
-# MKFG / Build
+[MKFG](../)
 
-New DIY tools enable automating various parts of production that are tedious, time consuming, labor-intensive, or difficult to manually control (feeding raw materials, processing, bundling, verification, packaging, labeling, etc.).
+# Build
+
+**New DIY tools** enable automating various parts of production that are tedious, time consuming, labor-intensive, or difficult to manually control (feeding raw materials, processing, bundling, verification, packaging, labeling, etc.).
 
 
 
