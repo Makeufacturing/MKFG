@@ -49,7 +49,18 @@ The MKFG library will then notify you when buttons are pressed or the knob is tu
 
 While the control board is relatively safe (operating at 12V), it's still a good idea to keep it in a case to reduce the chance that it could get harmed or shorted if something (especially something metal) bumps into it. 
 
-You can download the <a href="./3DPrintableCase/">MKFG case files</a> and then print them out on a 3D printer. You'll also want to have four M3 bolts handy to secure the top/bottom parts together. Then place the buttons and LED diffuser, add the board, screw it together, and pop on the knob. Voilà!
+You can download the <a href="./3DPrintableCase/">MKFG case files</a> and then print them out on a 3D printer. Printing in **PETg** is recommended for electronic cases to handle higher temperatures if components get warm during use. You'll also want to have **four M3 bolts** handy to secure the top/bottom parts together. 
+
+To construct:
+
+* Make sure the 3 heatsinks are placed on the control board's motor driver chips
+* Place the buttons and LED diffuser into the case top
+* Add the circuit board to the case top
+* Place the case bottom (fits snugly, but nothing should be forced)
+* Screw together with 4 x M3 bolts (7-10mm long)
+* Pop on the encoder knob. 
+
+Voilà! Your MKFG board is now ready for action.
 
 
 

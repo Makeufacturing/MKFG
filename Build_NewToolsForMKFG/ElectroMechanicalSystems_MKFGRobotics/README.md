@@ -2,7 +2,13 @@
 
 # Electro-Mechanical Systems (MKFG Robotics)
 
+Specialized makeufacturing systems that combine sensing, control, and actuation to help in performing semi-automated tasks.
 
+
+
+## Baking
+
+* <a href="./GravitationalRotaryKneader/">Gravitational Rotary Kneader</a>: A low-speed dough kneading machine that turns a round dough tub over an extended period of time to build gluten structure using the dough's own weight to continually stretch and fold it upon itself.
 
 
 

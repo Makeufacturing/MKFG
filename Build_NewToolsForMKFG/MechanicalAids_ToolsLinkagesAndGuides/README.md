@@ -2,9 +2,15 @@
 
 # Mechanical Aids (Tools, Linkages, and Guides)
 
-Sometimes having the right tool can make all the difference. Even if it's just a simple stick of wood or organization caddy to make your process more efficient and easier to perform.
+The right tool can make all the difference. Even if it's just a simple stick of wood or organization caddy to make your process more efficient and easier to perform. 
 
+Use these tools to help improve your makeufacturing efforts.
 
+## Baking
+
+* <a href="./DoughLoader/">Dough Loader</a>: DIY conveyor dough loader, designed for home oven use in artisan baking.
+* <a href="./DoughMixingSticks/">Dough Mixing Sticks</a>: Simple tool for efficiently mixing unto 7kg of dough at a time by hand.
+* <a href="ModularCoolingRacks">Modular Cooling Racks</a>: Wall-mounted rack system that allows for multiple full size cooling racks when need, while keeping kitchen space open on non-baking days.
 
 
 

@@ -2,15 +2,26 @@
 
 # Automation Controllers (Arduino and beyond)
 
+To automate various tasks, microcontrollers can be programmed to sense inputs, make assessments, and control outputs; all based on what a person commands via a basic user interface (UI). 
+
+[Arduino](https://arduino.cc), a set of simplified microcontroller boards and programming environment, is one of the cornerstones of the Maker movement. And for many makeufacturing builds, using Arduino boards directly is a simple way to add the needed functionality and interaction to control a complex task.
+
+For larger-scale projects, arduino boards can be extended via "shields" that plug onto the top for extra functionality. For a simple add-on, this works quite well. But when more complex systems are designed (often requiring multiple additional shield, like motor drivers, and a speaker, and a screen, and a knob), the shield approach grow cumbersome, large, expensive, and inefficient.
+
+All MKFG projects encourage you to use whichever boards and elements you are most comfortable with. In many cases, a basic Arduino board may be all you need.
+
+## MKFG Boards
+
+For more complex, stand-alone MKFG builds you may want to consider a board that integrates much of the needed core functionality into a single board, like the **MKFG WorkHorse**. 
+
+* <a href="./MKFGWorkHorse2350/">MKFG WorkHorse 2350</a>: A feature-packed, open source control + actuation + user interface board based on the RP2350 and fully programmable via the Arduino IDE.
 
 
 
+## Alternatives
 
-
-
-
-
-
+* Arduino + Shields: For some builds, a basic Arduino board and a shield or two may be all you need. 
+* 3D Printer Controllers: If you only need a basic microcontroller and motor drivers, 3D printer control boards can be a simple option. While usually lacking a user interface and built for a very specific use case, many printer boards have high quality motor drivers (sometimes as many as 4 or more) and can be fairly economical. Just be ready to do some technical digging. 
 
 
 
