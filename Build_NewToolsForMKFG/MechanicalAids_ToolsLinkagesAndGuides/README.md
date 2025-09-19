@@ -1,12 +1,18 @@
-[MKFG](../)
+[MKFG](../../) / [Build](../)
 
-# Build
+# Mechanical Aids
 
-**New DIY tools** enable automating various parts of production that are tedious, time consuming, labor-intensive, or difficult to manually control (feeding raw materials, processing, bundling, verification, packaging, labeling, etc.).
+Sometimes having just the right tool can make all the difference. Even if it's just a simple stick of wood or organization caddy to make your process more efficient and easier to perform.
 
-* <a href="./MechanicalAids_ToolsLinkagesAndGuides/">Mechanical Aids</a>, Tools, linkages, and guides
-* <a href="./AutomationControllers_ArduinoAndBeyond/">Automation Controllers</a>, Arduino and beyond
-* <a href="./ElectroMechanicalSystems_MKFGRobotics/">Electro-Mechanical Systems</a>, MKFG Robotics
+
+
+
+
+
+
+
+
+
 
 
 
