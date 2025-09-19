@@ -22,15 +22,24 @@ For many mkfg builds, the **specific core needs include**:
 
 So we made a simple credit card-sized board, the **MKFG WorkHorse**, that includes all of that together; it's built around **open source hardware, software, and mechanical engineering projects** that allow any curious tinkerers to get their hands dirty and build whatever is needed.
 
+- <img src="./CircuitBoard/MKFG-WorkHorse-2350-1.2.7_schematic.png" alt="hero image" width="128" style="max-width: 128px;" /> <a href="./CircuitBoard/MKFG-WorkHorse-2350-1.2.7_schematic.pdf">MKFG WorkHorse schematic, v1.2.7</a> (PDF)
+- <img src="./CircuitBoard/MKFG-WorkHorse-2350-1.2.7_pcb.png" alt="hero image" width="128" style="max-width: 128px;" /> <a href="MKFG-WorkHorse-2350-1.2.7_KICAD_ARCHIVE.zip">MKFG WorkHorse PCB files, v1.2.7</a> (KiCAD Archive, ready to fab via JLCPCB)
+
 
 
 #### Arduino Library
 
 <img src="./ArduinoLibrary/_hero.png" alt="hero image" width="512" style="max-width: 512px;" /> 
 
+Since we have a dedicated control board, we can now create a standardized library that takes care of all the low-level details in just a couple lines of code!
 
+Install the <a href="./ArduinoLibrary/">MKFG Arduino library</a> so your project can use it.
 
+Then in your project, just `#include <MKFG.h>` and create an instance variable via `MKFGWorkHorse2350 mkfg = MKFGWorkHorse2350();`.
 
+Calling `mkfg.setup()` initializes motor drivers, encoder, I2C OLED display, buttons, RGBW LED, motion control interrupts, etc. so everything is ready to go. Then in the loop() function of your code, call `mkfg.loop()` to handle anything that needs frequent updates (like checking of button states).
+
+The MKFG library will then notify you when buttons are pressed or the knob is turned (via predefined callback functions). And when you want to initialize the TMC2209 stepper drivers or tell a motor to goto a position, you can just use the example code (it only takes a couple more lines) and it'll handle it for you. 
 
 #### Case
 
@@ -38,7 +47,9 @@ So we made a simple credit card-sized board, the **MKFG WorkHorse**, that includ
 
 
 
+While the control board is relatively safe (operating at 12V), it's still a good idea to keep it in a case to reduce the chance that it could get harmed or shorted if something (especially something metal) bumps into it. 
 
+You can download the <a href="./3DPrintableCase/">MKFG case files</a> and then print them out on a 3D printer. You'll also want to have four M3 bolts handy to secure the top/bottom parts together. Then place the buttons and LED diffuser, add the board, screw it together, and pop on the knob. Voilà!
 
 
 
