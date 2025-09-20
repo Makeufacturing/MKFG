@@ -31,6 +31,8 @@ Keep in mind that there are 3 contact surfaces while kneading dough in this way:
 
 Note: This is a fairly advanced maker-level build. You'll need to work with lasercut wood, printed parts, mechanical hardware, motors, an Arduino-level controller, and some basic code (to program it). Ask for help at your local maker space or library if you're unsure as you. Us makers are in this together and often eager to help out!
 
+<img src="./media/gravmixer_a.jpg" width="192"/> <img src="./media/gravmixer_b.jpg" width="192"/> <img src="./media/gravmixer_c.jpg" width="192" /><br/>
+
 **To make your own Gravitational Rotary Kneader, you'll need:**
 
 - 1/4" plywood (for laser cutting)
