@@ -8,7 +8,7 @@ Specialized makeufacturing systems that combine sensing, control, and actuation 
 
 ## Baking
 
-* <img src="./GravitationalRotaryKneader/media/gravmixer_a.jpg" width="192"/> <img src="./GravitationalRotaryKneader/media/gravmixer_b.jpg" width="192"/> <img src="./GravitationalRotaryKneader/media/gravmixer_c.jpg" width="192" />
+* <img src="./GravitationalRotaryKneader/media/gravmixer_a.jpg" width="192"/> <img src="./GravitationalRotaryKneader/media/gravmixer_b.jpg" width="192"/> <img src="./GravitationalRotaryKneader/media/gravmixer_c.jpg" width="192" /><br/>
   **<a href="./GravitationalRotaryKneader/">Gravitational Rotary Kneader</a>**: A low-speed dough kneading machine that rotates a round dough tub over an extended period of time to build gluten structure using the dough's own weight to continually stretch and fold it upon itself.
 
 
