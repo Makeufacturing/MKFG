@@ -8,16 +8,16 @@ Why knead dough like this? A quick refresher on the science...
 
 Bread dough develops in **3 phases**.
 
-**First** wet and dry ingredients need to be mixed together form a paste. This can be effectively done by hand with batch sizes up to 7kg without requiring machinery.
+**First** wet and dry ingredients need to be mixed together to form a paste. This can be effectively done by hand with batch sizes up to 7kg without requiring machinery.
 
 **Second**, as time passes, the liquid integrates with the flour to hydrate two proteins, gliadin and glutenin. This is achieved by simply letting the dough rest. No machinery needed here either.
 
 And **third**, as these proteins are kneaded and pulled together, they form gluten; an elastic and sticky texture that can trap air bubbles and help bread rise when it bakes. This can be achieved 2 ways:
 
 1. A very strong machine that forces the proteins to mix with **intense mechanical motion over 5-15 minutes**. This is how industrial bread is produced. It's also easy to "overmix" since the dough itself is been pushed to its limit.
-2. An **intermittent set (every 20-60 minutes) of low-intensity stretches** that pull the dough against itself a few times, and then let it rest again to relax until the next stretch. This is typically done 2-4 times total, and is traditionally used by artisan bakers worldwide.
+2. An **intermittent (every 20-60 minutes) set of low-intensity stretches** that pull the dough against itself a few times, and then let it rest again to relax until the next stretch. This is typically done 2-4 times total, and is traditionally used by artisan bakers worldwide.
 
-Kneading with low-intensity stretches allows the dough to develop more slowly over time. This additional waiting also activates natural enzymes in the flour, like proteases, which makes the resulting bread easier to digest. And by using the dough's own weight as the pulling mechanism, a more relaxed dough will stretch easily, while a tighter dough will not -- greatly reducing the chance of overmixing.
+Kneading with low-intensity stretches allows the dough to develop more slowly over time. This additional waiting also activates natural enzymes in the flour, like proteases, which makes the resulting bread easier to digest. And by using the dough's own weight as the pulling mechanism, a more relaxed dough will stretch easily, while a tighter dough will not -- greatly reducing the chance of overmixing. In short: **low intensity stretching makes better bread**.
 
 This same stretching approach can be accomplished by slowly rotating the dough in a circular dough tub on its side -- a **gravitational rotary kneader** -- quietly working the dough for us while the next batch is being mixed.
 
