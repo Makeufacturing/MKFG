@@ -41,24 +41,29 @@ Calling `mkfg.setup()` initializes motor drivers, encoder, I2C OLED display, but
 
 The MKFG library will then notify you when buttons are pressed or the knob is turned (via predefined callback functions). And when you want to initialize the TMC2209 stepper drivers or tell a motor to goto a position, you can just use the example code (it only takes a couple more lines) and it'll handle it for you. 
 
-#### Case
+#### 3D Printable Case
 
 <img src="./3DPrintableCase/_hero.png" alt="hero image" width="512" style="max-width: 512px;" /> 
-
-
 
 While the control board is relatively safe (operating at 12V), it's still a good idea to keep it in a case to reduce the chance that it could get harmed or shorted if something (especially something metal) bumps into it. 
 
 You can download the <a href="./3DPrintableCase/">MKFG case files</a> and then print them out on a 3D printer. Printing in **PETg** is recommended for electronic cases to handle higher temperatures if components get warm during use. You'll also want to have **four M3 bolts** handy to secure the top/bottom parts together. 
 
-To construct:
+<img src="./3DPrintableCase/media/mkfg_workhorse_case1.jpg" width="512"/> 
 
+ <img src="./3DPrintableCase/media/mkfg_workhorse_case2.jpg" height="128"/> <img src="./3DPrintableCase/media/mkfg_workhorse_case3.jpg" height="128"/>   
+
+**To construct the case**:
+
+* Print all parts (3 x buttons, 1 of everything else)
 * Make sure the 3 heatsinks are placed on the control board's motor driver chips
 * Place the buttons and LED diffuser into the case top
 * Add the circuit board to the case top
 * Place the case bottom (fits snugly, but nothing should be forced)
 * Screw together with 4 x M3 bolts (7-10mm long)
 * Pop on the encoder knob. 
+
+<img src="./3DPrintableCase/media/mkfg_workhorse_case4.jpg" width="512"/> 
 
 Voilà! Your MKFG board is now ready for action.
 

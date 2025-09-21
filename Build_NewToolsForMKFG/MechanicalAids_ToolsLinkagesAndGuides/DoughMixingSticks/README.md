@@ -1,26 +1,48 @@
-[MKFG](../../) / [Build](../)
+[MKFG](../../../) / [Build](../../) / [Mechanical Aids](../)
 
-# Mechanical Aids (Tools, Linkages, and Guides)
+# Dough Mixing Sticks
 
-The right tool can make all the difference. Even if it's just a simple stick of wood or organization caddy to make your process more efficient and easier to perform. 
+<img src="./_hero.jpg" width="512"/>  
 
-Use these tools to help improve your makeufacturing efforts.
+You can mix dough with any food-safe implement you like (including your hands!), but as you scale up your batch sizes, using a purpose-built tool can make the work a lot easier.
 
-## Baking
+A good mixing stick should feel **comfortable and sturdy in the hand** while also effectively working the dough as it comes together. We've found that a **0.75 - 1.25 inch diameter wooden dowel** is the sweet spot. Much thinner, and it risks breaking. Much thicker and it's hard to hold and push through stiffer doughs.
 
-* <img src="./DoughLoader/_hero.jpg" width="128"/><br/>
-  <a href="./DoughLoader/">Dough Loader</a>: DIY conveyor dough loader, designed for home oven use in artisan baking.
-* <img src="./DoughMixingSticks/_hero.jpg" width="128"/><br/>
-  <a href="./DoughMixingSticks/">Dough Mixing Sticks</a>: Simple tool for efficiently mixing unto 7kg of dough at a time by hand.
-* <img src="./ModularCoolingRacks/_hero.jpg" width="128"/><br/><a href="ModularCoolingRacks">Modular Cooling Racks</a>: Wall-mounted rack system that allows for multiple full size cooling racks when need, while keeping kitchen space open on non-baking days.
+We also like having a **flattened end** such that it can be turned to give more/less resistance in the dough. It also enables you to **use it as a wedge to lift the dough off the bottom of the dough tub** while mixing with minimal effort. And flat sides make it easier to scrape down and clean.
+
+In less than 10 minutes of sawing and sanding, you can make your own optimized mixing stick for just a few dollars.
 
 
 
+## Building Instructions
+
+**To make your own Dough Mixing Stick, you'll need:**
+
+- **0.75 to 1.25 inch square wooden dowel**, at least **16 inches long**. Food-safe hardwoods like maple, oak, cherry, walnut, or beech wood are particularly good if you can find them, but pine or poplar will work in a pinch. Even the nicer hardwoods at this size are around $8 for a dowel that's long enough to make 2 sticks, so go for the good stuff if you can.
+- You'll also need a saw (hand saw, or bandsaw if you have access to one) and some sandpaper.
+
+
+
+<img src="./MKFG_DoughMixingStick_steps.png" width="512"/> 
+
+**Then roughly follow this process:**
+
+* Cut the square dowel down to around 16" long.
+
+* Mark a center line and draw a 1/4" wide section, approximately 8" long. Taper the thin section so it gradually gets wider over and inch or so near the middle of the stick.
+
+* Using proper safety equipment and great care, cut the wood on the lines you made.
+
+* Sand down all rough corners.
+
+* Wash and dry your mixing stick so it's ready for use!
 
 
 
 
+## CAD Reference
 
+There's also a dimensioned <a href="./MKFG_DoughMixingStick Drawing.pdf">CAD drawing</a> you can reference if you find it helpful.
 
 
 

@@ -1,26 +1,32 @@
-[MKFG](../../) / [Build](../)
+[MKFG](../../../) / [Build](../../) / [Mechanical Aids](../)
 
-# Mechanical Aids (Tools, Linkages, and Guides)
+# Modular Cooling Racks
 
-The right tool can make all the difference. Even if it's just a simple stick of wood or organization caddy to make your process more efficient and easier to perform. 
+<img src="./_hero.jpg" width="512"/>  
 
-Use these tools to help improve your makeufacturing efforts.
-
-## Baking
-
-* <img src="./DoughLoader/_hero.jpg" width="128"/><br/>
-  <a href="./DoughLoader/">Dough Loader</a>: DIY conveyor dough loader, designed for home oven use in artisan baking.
-* <img src="./DoughMixingSticks/_hero.jpg" width="128"/><br/>
-  <a href="./DoughMixingSticks/">Dough Mixing Sticks</a>: Simple tool for efficiently mixing unto 7kg of dough at a time by hand.
-* <img src="./ModularCoolingRacks/_hero.jpg" width="128"/><br/><a href="ModularCoolingRacks">Modular Cooling Racks</a>: Wall-mounted rack system that allows for multiple full size cooling racks when need, while keeping kitchen space open on non-baking days.
+...
 
 
 
+## Building Instructions
+
+**To make your own Modular Cooling Racks, you'll need:**
+
+- 
+
+
+
+**Then roughly follow this process:**
+
+* 
 
 
 
 
 
+## CAD Reference
+
+There's also a dimensioned <a href="./MKFG_DoughMixingStick Drawing.pdf">CAD drawing</a> you can reference if you find it helpful.
 
 
 
