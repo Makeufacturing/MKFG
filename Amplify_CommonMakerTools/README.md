@@ -4,7 +4,16 @@
 
 **Existing maker-level tools** are an integral part of small-scale manufacturing; they just require some clever thinking to obtain more efficient operation and improve reliability (via print settings, batch processing, material selection, etc.).
 
-
+* **2D Printers**: For many custom printouts such as labels and information sheets, being able to print "borderless" (full-bleed / edge-to-edge) is a big help. Then tune your settings to achieve the desired quality and print speed based on your printer's capabilities. See the folder examples, including 2x4 labels that use the entire sheet for maximal use of space.
+* **3D Printers**: Print settings can drastically impact both quality and speed. Take some time to dial in your printer for best results at a fairly thick layer height if possible to achieve stronger, faster prints (where fine details are not critically important). See the folder for print settings tested on a Prusa Mk3/Mk3S+ with 0.4mm nozzle, 0.25mm layer height, and using PETg. 
+* CNC Routers:
+* Laser Cutters:
+* Vinyl Cutters: 
+* Hand Tools:
+* Scales: 
+* Soldering Irons:
+* Microcontrollers:
+* Sewing Machines:
 
 
 
