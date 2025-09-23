@@ -4,9 +4,9 @@
 
 The experience customers have with you, your product, and your business over time is critically important to your long term success. Here are some ways you can elevate the user experience of your makeufacturing efforts.
 
-* [Endless Audio Experience](./EndlessAudioExperience/): A simple multi-layer audio player that combines continuous audio to provide a soundscape that situates the listener in another location. Think ocean waves, peaceful streams, secluded forests, or bustling cities.
-* Intentional lighting: Consider how your product and space are illuminated. Does it draw the user in? Is it comforting and engaging?
-* Tangible, playful surprises: What can you add to the experience that brings a smile to people's faces when then visit? Something as simple as a doorbell or hand-written note can turn an otherwise dull interaction into a delightful one.
+* **[Endless Audio Experience](./EndlessAudioExperience/)**: A simple multi-layer audio player that combines continuous audio to provide a soundscape that situates the listener in another location. Think ocean waves, peaceful streams, secluded forests, or bustling cities.
+* **Intentional lighting**: Consider how your product and space are illuminated. Does it draw the user in? Is it comforting and engaging?
+* **Tangible, playful surprises**: What can you add to the experience that brings a smile to people's faces when then visit? Something as simple as a doorbell or hand-written note can turn an otherwise dull interaction into a delightful one.
 
 
 

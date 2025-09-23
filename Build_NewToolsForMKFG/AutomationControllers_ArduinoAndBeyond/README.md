@@ -14,7 +14,7 @@ All MKFG projects encourage you to use whichever boards and elements you are mos
 
 For more complex, stand-alone MKFG builds you may want to consider a board that integrates much of the needed core functionality into a single board, like the **MKFG WorkHorse**. 
 
-* <a href="./MKFGWorkHorse2350/">MKFG WorkHorse 2350</a>: A feature-packed, open source control + actuation + user interface board based on the RP2350 and fully programmable via the Arduino IDE.
+* **<a href="./MKFGWorkHorse2350/">MKFG WorkHorse 2350</a>**: A feature-packed, open source control + actuation + user interface board based on the RP2350 and fully programmable via the Arduino IDE.
 
 
 

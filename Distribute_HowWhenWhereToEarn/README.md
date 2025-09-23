@@ -6,7 +6,8 @@ You've makeufacturing something awesome, but **how, when, and where do you earn*
 
 Alternative models of distribution provide makers with a way to get their products into customers' hands without the overhead of consignment or leasing brick-and-mortar spaces. Not depending on large online and offline retailers benefits both the maker and the buyer (self-serve, on-site, bulk distribution, direct-to-consumer transactions, pay-what-you-wish pricing, etc.).
 
-
+* **[Self-Serve Kiosk](./SelfServeKiosk/)**: For ventures where theft is unlikely/tolerable (like bread, coffee, or produce), a self-serve storefront is a great way to allow customers to buy what you're selling without requiring you to be present. It's also a great way to build trust within a community.
+* **[Payment Processing](./PaymentProcessing)**: What are the best ways for a customer to pay for what you're selling, and how do you set it up? Can customers be trusted to enter the price themselves? What kind of fees can a seller expect to pay if a credit card is used?
 
 
 

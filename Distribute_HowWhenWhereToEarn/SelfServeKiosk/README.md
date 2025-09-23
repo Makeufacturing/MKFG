@@ -1,20 +1,10 @@
-[MKFG](../../) / [Build](../)
+[MKFG](../../) / [Distribute](../)
 
-# Mechanical Aids (Tools, Linkages, and Guides)
+# Self-Serve Kiosk
 
-The right tool can make all the difference. Even if it's just a simple stick of wood or organization caddy to make your process more efficient and easier to perform. 
+<img src="./_hero.jpg" width="192"/> 
 
-Use these tools to help improve your makeufacturing efforts.
-
-## Baking
-
-* <img src="./DoughLoader/_hero.jpg" width="128"/><br/>****
-  **<a href="./DoughLoader/">Dough Loader</a>**: DIY conveyor dough loader, designed for home oven use in artisan baking.
-* <img src="./DoughMixingSticks/_hero.jpg" width="128"/><br/>****
-  **<a href="./DoughMixingSticks/">Dough Mixing Sticks</a>**: Simple tool for efficiently mixing unto 7kg of dough at a time by hand.
-* <img src="./ModularCoolingRacks/_hero.jpg" width="128"/><br/>**<a href="ModularCoolingRacks">Modular Cooling Racks</a>**: Wall-mounted rack system that allows for multiple full size cooling racks when need, while keeping kitchen space open on non-baking days.
-
-
+For ventures where theft is unlikely/tolerable (like bread, coffee, or produce), a self-serve storefront is a great way to allow customers to buy what you're selling without requiring you to be present. It's also a great way to build trust within a community.
 
 
 

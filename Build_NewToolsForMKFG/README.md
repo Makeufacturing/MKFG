@@ -4,9 +4,9 @@
 
 **New DIY tools** enable automating various parts of production that are tedious, time consuming, labor-intensive, or difficult to manually control (feeding raw materials, processing, bundling, verification, packaging, labeling, etc.).
 
-* <a href="./MechanicalAids_ToolsLinkagesAndGuides/">Mechanical Aids</a>, Tools, linkages, and guides
-* <a href="./AutomationControllers_ArduinoAndBeyond/">Automation Controllers</a>, Arduino and beyond
-* <a href="./ElectroMechanicalSystems_MKFGRobotics/">Electro-Mechanical Systems</a>, MKFG Robotics
+* **<a href="./MechanicalAids_ToolsLinkagesAndGuides/">Mechanical Aids</a>**, Tools, linkages, and guides
+* **<a href="./AutomationControllers_ArduinoAndBeyond/">Automation Controllers</a>**, Arduino and beyond
+* **<a href="./ElectroMechanicalSystems_MKFGRobotics/">Electro-Mechanical Systems</a>**, MKFG Robotics
 
 
 

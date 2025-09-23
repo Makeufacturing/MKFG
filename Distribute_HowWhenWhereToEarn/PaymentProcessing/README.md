@@ -1,22 +1,11 @@
-[MKFG](../../) / [Build](../)
+[MKFG](../../) / [Distribute](../)
 
-# Mechanical Aids (Tools, Linkages, and Guides)
+# Payment Processing
 
-The right tool can make all the difference. Even if it's just a simple stick of wood or organization caddy to make your process more efficient and easier to perform. 
+What are the best ways for a customer to pay for what you're selling, and how do you set it up? Can customers be trusted to enter the price themselves? What kind of fees can a seller expect to pay if a credit card is used?
 
-Use these tools to help improve your makeufacturing efforts.
-
-## Baking
-
-* <img src="./DoughLoader/_hero.jpg" width="128"/><br/>****
-  **<a href="./DoughLoader/">Dough Loader</a>**: DIY conveyor dough loader, designed for home oven use in artisan baking.
-* <img src="./DoughMixingSticks/_hero.jpg" width="128"/><br/>****
-  **<a href="./DoughMixingSticks/">Dough Mixing Sticks</a>**: Simple tool for efficiently mixing unto 7kg of dough at a time by hand.
-* <img src="./ModularCoolingRacks/_hero.jpg" width="128"/><br/>**<a href="ModularCoolingRacks">Modular Cooling Racks</a>**: Wall-mounted rack system that allows for multiple full size cooling racks when need, while keeping kitchen space open on non-baking days.
-
-
-
-
+* **Cash**: Yes, it's old-school. But cash is also a great equalizer that can be used by anyone (even if they don't have a phone or credit card). Supporting cash payments with a simple lockbox ensures that your business is truly open to all in your community.
+* **Stripe**: There are a lot of credit card processors to choose from, but we've been most impressed so far with [stripe.com](https://stripe.com). In particular you can easily setup pay-what-you-wish (customer chooses) payment links, and these can be easily made into QR code. That means a customer can scan your code and be directed to a page where they input the price to pay and then use whatever card/provider they like to complete the transaction.
 
 
 

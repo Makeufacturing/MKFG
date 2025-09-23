@@ -4,6 +4,8 @@
 
 Putting together new and existing maker tools into bespoke manufacturing systems can enable scalable production. See these **examples of MKFG systems** to get a sense for how all of the elements can be combined to support specific MKFG business ventures.
 
+* **[Artisan Bread](./ArtisanBread)**: This is the MKFG system used to enable [PALM bread](https://palmbread.com), an artisan method for making exceptional sourdough breads at home that can easily scale up to help feed local communities.
+
 
 
 

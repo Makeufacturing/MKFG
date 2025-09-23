@@ -4,8 +4,8 @@
 
 Getting your first product out the door is just the beginning. Once you're up and running, it's important to consider new **ways to improve and grow** your makeufacturing venture over time to stay relevant and keep your business working as well as possible.
 
-* [User Experience](./UserExperience/): The experience customers have with you, your product, and your business over time is critically important to your long term success. Here are some ways to elevate the UX.
-* [Sharing Is Caring](./SharingIsCaring): Sharing is a two-way street that builds connection between people. Consider new ways of letting  customers in to your mfkg journey and for you to be a part of theirs.
+* **[User Experience](./UserExperience/)**: The experience customers have with you, your product, and your business over time is critically important to your long term success. Here are some ways to elevate the UX.
+* **[Sharing Is Caring](./SharingIsCaring)**: Sharing is a two-way street that builds connection between people. Consider new ways of letting  customers in to your mfkg journey and for you to be a part of theirs.
 
 
 
