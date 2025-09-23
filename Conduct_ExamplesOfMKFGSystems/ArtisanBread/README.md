@@ -2,7 +2,9 @@
 
 # Artisan Bread
 
-[![Video of PALM Bread using Makeufacturing](https://img.youtube.com/vi/TDZuI1z2zJw/0.jpg)](https://www.youtube.com/watch?v=TDZuI1z2zJw)
+[<img src="./_hero.jpg" alt="Video of PALM Bread using Makeufacturing" width="512" />](https://www.youtube.com/watch?v=TDZuI1z2zJw)
+
+> Watch [video of how the bread is made](https://www.youtube.com/watch?v=TDZuI1z2zJw).
 
 MKFG is a key enabler of [PALM bread](https://palmbread.com), an artisan method for making exceptional sourdough breads at home that can easily scale up to help feed local communities. Here's a list of components used:
 
