@@ -16,7 +16,7 @@ And **don't forget safety!** You must take care to **ensure that your kiosk cann
 
 Yes, you can make the exact kiosk shown here using the [Kiosk CAD files](./CAD). But in many ways, that's really not the point!
 
-<img src="./media/MKFG_SelfServeKiosk1.jpg" height="196"/> <img src="./media/MKFG_SelfServeKiosk2.png" height="196"/> <img src="./media/MKFG_SelfServeKiosk3.png" height="196"/>
+<img src="./media/MKFG_SelfServeKiosk1.jpg" height="196"/> <img src="./media/MKFG_SelfServeKiosk2.png" height="196"/> <img src="./media/MKFG_SelfServeKiosk3.png" height="196"/> <img src="./media/MKFG_SelfServeKiosk4.png" height="196"/>
 
 Building everything ourselves (including the door and windows) was also much more time consuming than necessary. Some element or two will be useful as you plan out your own build, but **don't feel the need to trace our footsteps if you have other ideas!**
 
