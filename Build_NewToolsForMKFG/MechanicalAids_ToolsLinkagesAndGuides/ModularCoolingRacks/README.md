@@ -4,21 +4,32 @@
 
 <img src="./_hero.jpg" width="512"/>  
 
-...
-
-
+**A modular, wall-mounted cooling rack system allows for placing racks only when needed while also keeping the floor and counter space clear**. 
 
 ## Building Instructions
 
 **To make your own Modular Cooling Racks, you'll need:**
 
-- 
+- 2 x 1x4 boards, around 26" long.
+- 1 x 3D printed drill jig.
+- 12 x 3D printed RackBraces (or less if you don't need as many cooling racks).
+- 24 x #8x3/4" long Truss Head screws (wide head with flat underside).
+- 3+ Full Sheet Pan (16x24") wire mesh cooling racks (like [this](https://www.webstaurantstore.com/choice-16-7-16-x-24-1-2-chrome-plated-footed-wire-cooling-rack-pan-grate-for-full-size-sheet-pan/407CRKFULLCH.html) or [this](https://www.amazon.com/dp/B085P1764K)).
 
 
 
 **Then roughly follow this process:**
 
-* 
+* Cut 1x4 boards to length (~26")
+* Cut 1/4" wide slots into 1x4 at specific locations. Boards can be cut at the same time to ensure that slots are well aligned (make sure to that they are sufficiently clamped).
+* Drill 1/4" mounting holes.
+* Use drill guide to make small 7/64" holes below each slot (as shown).<br/><img src="./media/usingDrillJig.png" height="196"/> 
+* Place printed RackBraces and screw loosely into place with #8x3/4" Truss Head screws.
+* Place each rack and adjust height of RackBrace until rack is level. Tighten screws into place.
+
+<img src="./media/cooling_rackC.jpg" height="256"/> <img src="./media/cooling_rackA.jpg" height="256"/> 
+
+<img src="./media/cooling_rackB.jpg" height="256"/> 
 
 
 
@@ -26,7 +37,11 @@
 
 ## CAD Reference
 
-There's also a dimensioned <a href="./MKFG_DoughMixingStick Drawing.pdf">CAD drawing</a> you can reference if you find it helpful.
+See the dimensioned <a href="./Fab_ToCutWood/MKFG_ModularWallRack_drawing.pdf">drawing</a> for where to cut the 1x4 rails.
+
+The full [Modular Rack CAD](./CAD/) is also available.
+
+<img src="./media/MKFG_ModCoolingRack1.jpg" height="128"/> <img src="./media/MKFG_ModCoolingRack2.jpg" height="128"/> <img src="./media/MKFG_ModCoolingRack3.jpg" height="128"/> 
 
 
 
