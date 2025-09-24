@@ -6,7 +6,7 @@
 
 * [**2D Printers**](./2DPrinter/): For many custom printouts such as labels and information sheets, being able to print "borderless" (full-bleed / edge-to-edge) is a big help. Then tune your settings to achieve the desired quality and print speed based on your printer's capabilities. See the folder examples, including 2x4 labels that use the entire sheet for maximal use of space.
 * [**3D Printers**](./3DPrinter/): Print settings can drastically impact both quality and speed. Take some time to dial in your printer for best results at a fairly thick layer height if possible to achieve stronger, faster prints (where fine details are not critically important). See the folder for production print settings tested on a Prusa Mk3/Mk3S+ with 0.4mm nozzle, 0.25mm layer height, and using PETg.
-* Laser Cutters:
+* [**Laser Cutters**](./LaserCutter/): The fastest way to cut flat materials, laser cutters can be a highly effective tool for use in makeufacturing. Just make sure to stay safe and only cut approved materials.
 * CNC Routers:
 * Vinyl Cutters: 
 * Hand Tools:

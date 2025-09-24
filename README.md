@@ -2,11 +2,11 @@
 
 <img src="./_about/mkfg_logo.png" alt="mkfg_logo" width="128" height="128" style="max-height: 128px;" /> 
 
-**[Makeufacturing](https://mkfg.org)** (#mkfg) builds on the maker movement to form a **sustainable *maker economy***, putting the means of production into the hands of makers themselves to **create unique, inventive products** and **produce them at scale** with their own tools &mdash; all **fully inclusive and openly shared**.
-
-
+**[Makeufacturing](https://mkfg.org)** (#mkfg) builds on the maker movement to form a sustainable ***maker economy***, putting the means of production into the hands of makers themselves to **create unique, inventive products** and **produce them at scale** with their own **accessible and open source** methods.
 
 ## What is it?
+
+<img src="./Amplify_CommonMakerTools/_hero.png" height="96"/> <img src="./Build_NewToolsForMKFG/_hero.jpg" height="96"/> <img src="./Conduct_ExamplesOfMKFGSystems/_hero.jpg" height="96"/> <img src="./Distribute_HowWhenWhereToEarn/_hero.jpg" height="96"/> <img src="./Elevate_WaysToImproveAndGrow/_hero.jpg" height="96"/> 
 
 Makeufacturing **leverages maker-level tools and materials** to enable **scaling up** tangible creative efforts. In contrast to large-scale manufacturing, *makeufacturing* allows creators to **retain full control** of the process, greatly **lower operating costs and investments**, and be able to **quickly adapt to local needs and preferences** that set their products apart.
 
