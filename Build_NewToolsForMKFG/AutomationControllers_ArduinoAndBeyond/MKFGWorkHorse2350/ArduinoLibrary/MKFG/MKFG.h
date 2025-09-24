@@ -193,10 +193,15 @@ public:
   unsigned long _beepOffMs           = 0;
   uint8_t       _beepRequestNextType = 0;
   unsigned long _beepRequestAtMs     = 0;
+  unsigned int  _speakerVolPWM       = MKFG_BEEPER_PWM_MIDVAL;
   // --
   /// MKFG Constructor. This creates an instance that can be used to initialize the MKFG board, drive motors, and handle user interactions.
-  MKFG() {
+  MKFG(float speakerVolume) {
     // --
+    if(speakerVolume >= 0.0 && speakerVolume <= 1.0) _speakerVolPWM = MKFG_BEEPER_PWM_MIDVAL*speakerVolume;
+  }
+  MKFG(){
+    MKFG(1.0);
   }
   // --
   void rgbw(uint8_t r, uint8_t g, uint8_t b, uint8_t w) {
@@ -290,7 +295,7 @@ public:
       case MKFG_BEEP_1X:
         {
           _speaker_change_freq(MKFG_SPEAKER_FREQ_C);
-          pwm_set_gpio_level(PIN_SPKR_PIEZO, 512);
+          pwm_set_gpio_level(PIN_SPKR_PIEZO, _speakerVolPWM);
           _beepOffMs = (millis() + 85) | 0x01;  // do not allow a value of zero.
           break;
         }
@@ -300,7 +305,7 @@ public:
       case MKFG_BEEP_5X:
         {
           _speaker_change_freq(MKFG_SPEAKER_FREQ_C);
-          pwm_set_gpio_level(PIN_SPKR_PIEZO, 512);
+          pwm_set_gpio_level(PIN_SPKR_PIEZO, _speakerVolPWM);
           _beepOffMs = (millis() + 70) | 0x01;  // do not allow a value of zero.
           _beepRequestNextType = beepType - 1;
           _beepRequestAtMs = (millis() + 160) | 0x01;  // do not allow a value of zero.
@@ -309,7 +314,7 @@ public:
       case MKFG_BEEP_MED_1X:
         {
           _speaker_change_freq(MKFG_SPEAKER_FREQ_C);
-          pwm_set_gpio_level(PIN_SPKR_PIEZO, 512);
+          pwm_set_gpio_level(PIN_SPKR_PIEZO, _speakerVolPWM);
           _beepOffMs = (millis() + 500) | 0x01;  // do not allow a value of zero.
           break;
         }
@@ -319,7 +324,7 @@ public:
       case MKFG_BEEP_MED_5X:
         {
           _speaker_change_freq(MKFG_SPEAKER_FREQ_B);
-          pwm_set_gpio_level(PIN_SPKR_PIEZO, 512);
+          pwm_set_gpio_level(PIN_SPKR_PIEZO, _speakerVolPWM);
           _beepOffMs = (millis() + 475) | 0x01;  // do not allow a value of zero.
           _beepRequestNextType = beepType - 1;
           _beepRequestAtMs = (millis() + 1000) | 0x01;  // do not allow a value of zero.
@@ -328,14 +333,14 @@ public:
       case MKFG_BEEP_LONG:
         {
           _speaker_change_freq(MKFG_SPEAKER_FREQ_A);
-          pwm_set_gpio_level(PIN_SPKR_PIEZO, 512);
+          pwm_set_gpio_level(PIN_SPKR_PIEZO, _speakerVolPWM);
           _beepOffMs = (millis() + 1000) | 0x01;  // do not allow a value of zero.
           break;
         }
       case MKFG_BEEP_INIT:
         {
           _speaker_change_freq(MKFG_SPEAKER_FREQ_E);
-          pwm_set_gpio_level(PIN_SPKR_PIEZO, 512);
+          pwm_set_gpio_level(PIN_SPKR_PIEZO, _speakerVolPWM);
           _beepOffMs = (millis() + 75) | 0x01;  // do not allow a value of zero.
           _beepRequestNextType = beepType + 1;
           _beepRequestAtMs = (millis() + 125) | 0x01;  // do not allow a value of zero.
@@ -344,7 +349,7 @@ public:
       case MKFG_BEEP_INITb:
         {
           _speaker_change_freq(MKFG_SPEAKER_FREQ_G);
-          pwm_set_gpio_level(PIN_SPKR_PIEZO, 512);
+          pwm_set_gpio_level(PIN_SPKR_PIEZO, _speakerVolPWM);
           _beepOffMs = (millis() + 75) | 0x01;  // do not allow a value of zero.
           _beepRequestNextType = beepType + 1;
           _beepRequestAtMs = (millis() + 125) | 0x01;  // do not allow a value of zero.
@@ -353,7 +358,7 @@ public:
       case MKFG_BEEP_INITc:
         {
           _speaker_change_freq(MKFG_SPEAKER_FREQ_A2);
-          pwm_set_gpio_level(PIN_SPKR_PIEZO, 512);
+          pwm_set_gpio_level(PIN_SPKR_PIEZO, _speakerVolPWM);
           _beepOffMs = (millis() + 75) | 0x01;  // do not allow a value of zero.
           _beepRequestNextType = beepType + 1;
           _beepRequestAtMs = (millis() + 125) | 0x01;  // do not allow a value of zero.
@@ -362,7 +367,7 @@ public:
       case MKFG_BEEP_INITd:
         {
           _speaker_change_freq(MKFG_SPEAKER_FREQ_B);
-          pwm_set_gpio_level(PIN_SPKR_PIEZO, 512);
+          pwm_set_gpio_level(PIN_SPKR_PIEZO, _speakerVolPWM);
           _beepOffMs = (millis() + 75) | 0x01;  // do not allow a value of zero.
           _beepRequestNextType = beepType + 1;
           _beepRequestAtMs = (millis() + 150) | 0x01;  // do not allow a value of zero.
@@ -371,7 +376,7 @@ public:
       case MKFG_BEEP_INITe:
         {
           _speaker_change_freq(MKFG_SPEAKER_FREQ_C);
-          pwm_set_gpio_level(PIN_SPKR_PIEZO, 512);
+          pwm_set_gpio_level(PIN_SPKR_PIEZO, _speakerVolPWM);
           _beepOffMs = (millis() + 150) | 0x01;  // do not allow a value of zero.
           // _beepRequestNextType = beepType+1;
           // _beepRequestAtMs = (millis() + 150) | 0x01; // do not allow a value of zero.
@@ -786,7 +791,9 @@ public:
     return true;  // return true when done.
   }
   // ------------
-  void setup() {
+  void setup(float speakerVolume) {
+    if(speakerVolume >= 0.0 && speakerVolume <= 1.0) _speakerVolPWM = MKFG_BEEPER_PWM_MIDVAL*speakerVolume*speakerVolume;
+    // --
     delay(100);               // let power settle 100msec on boot.
     _init_led_rgbw_allOff();  // init LED so we can use error code blinks for feedback if motor/display fails.
     _init_speaker();
@@ -823,6 +830,9 @@ public:
     mkfg_display_clearAndPrintTxt("MKFG Ready.");
     // --
     Serial.println("(ok) MKFG Initialized.");
+  }
+  void setup(){
+    setup(1.0);
   }
   // ------
   void loop() {
