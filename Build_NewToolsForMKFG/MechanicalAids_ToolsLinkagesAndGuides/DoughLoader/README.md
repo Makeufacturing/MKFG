@@ -20,7 +20,7 @@ There are a few other solutions [[1](http://www.thefreshloaf.com/node/51803/load
 
 - 1 x 3/16" to 1/4" thick plywood sheet (as big as you want your loader to be).
 - 4 x 1/4" square dowel rods (these form the top and bottom guide edges).
-- 3 x 1/8" plywood sheet (these act as a spaces to keep the belt off of the deck and round the edges).
+- 3 x 1/8" plywood sheet/strips (these act as a spacer to keep the belt off of the deck and round the edges; alternatively you can cut up a yard stick if you'd rather).
 - 1 x 1/2" square wooden dowel (the handle that the conveyor cloth gets wrapped around).
 - 1 x piece of cotton duck canvas fabric to use as the conveyor belt.
 - 5 x medium binder clips (to hold everything in place)
@@ -52,7 +52,7 @@ There are a few other solutions [[1](http://www.thefreshloaf.com/node/51803/load
 
   Now put it everything together. Feed the conveyor around the sheet between the wooden rails, loop it back around the 1/2" square wooden dowel, and tightly secure with binder clips as shown. It should slide easily back and forth with only a small amount of slack.
 
-* <img src="./media/06_side_front.jpg" width="256"/> <img src="./media/09_final_bot.jpg" width="256"/> 
+* <img src="./media/06_side_front.jpg" width="256"/> <img src="./media/09_final_bot.jpg" width="256"/> <img src="./media/09b_underside_tape_spacer.jpg" width="256"/>  
   It's also advisable to add a deck guard that runs underneath the bottom of the conveyor such that it won't get pinched if the dough loader isn't perfectly aligned with your deck and scoots to the side.
 
 * You can also draw lines on the canvas with a food-safe fine-tip permanent marker as a reference to make placing dough easier. A center line and some length indicators can be a big help.
