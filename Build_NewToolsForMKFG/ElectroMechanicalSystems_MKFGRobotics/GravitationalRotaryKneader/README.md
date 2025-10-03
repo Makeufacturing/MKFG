@@ -35,26 +35,36 @@ Note: This is a fairly advanced maker-level build. You'll need to work with lase
 
 **To make your own Gravitational Rotary Kneader, you'll need:**
 
-- 1/4" plywood (for laser cutting, 5mm ply is also perfectly fine).<br/><img src="./Fab_ToLaserCut/MKFG_GravMixer_All_Ply_LightBurn.png" height="196"/> 
+- 1/4" plywood (5mm or 0.185" thick ply is also perfectly fine) for laser cutting<br/><img src="./Fab_ToLaserCut/MKFG_GravMixer_All_Ply_LightBurn.png" height="196"/> 
 - PETg (or PLA) for all printed parts<br/><img src="./Fab_To3DPrint/MKFG_GravKneader_All.png" height="196"/> 
 - Various M3 and M5 bolts and nuts to connect all of the components.
+  - 26 x [M3@10mm low-profile socket head](https://www.mcmaster.com/90666A105/) bolts
+  - 8 x [M3@6mm low-profile socket head](https://www.mcmaster.com/90666A103/) bolts
+  - 34 x [M3 hex nuts](https://www.mcmaster.com/91828A211/)
+  - For MKFG board case:
+    - 2 x [M3@10mm low-profile socket head](https://www.mcmaster.com/90666A105/) bolts
+    - 2 x [M3@14mm flanged button head](https://www.mcmaster.com/97654A205/)  bolts (attach through 4-7mm wood)
+    - 1 x [M3@10mm hex head](https://www.mcmaster.com/91287A014/) (2mm head height) bolt, internal, to provide mounting post out back
+    - 1 x [M3 hex nuts](https://www.mcmaster.com/91828A211/) (for use on mounting post)
+
 - 3 x 608 bearings (for rear bearing support)
-- 3 x 8mm shafts (for rear bearing support)
+- 3 x 8mm@18-20mm long shafts (for rear bearing support)
 - 2 x NEMA 17 stepper motors
-- 2 x 5mm shafts (for rollers)
+- 2 x 5mm@50mm long shafts (for rollers)
 - 2 x MRZ105 bearings (for rollers)
-- 2 x silicone tubing (to cover the rollers and provide grip to the outside of the dough tub)
+- 2 x 5" long silicone tubing @ (0.375" OD, 0.25" ID) to cover the rollers and provide grip to the outside of the dough tub.
 - 1 x MKFG control board (or Arduino + stepper motor control shield)
-- 1 x 12Qt polypropylene dough tub w/ lid for testing
+- 1 x 12Qt polypropylene dough tub w/ lid for testing/use.
+- Hand tools:
+  - 2mm hex/allen wrench
+  - M3x25mm nut insertion helper
+
 
 
 
 #### Known issues (future things to fix):
 
-* Sides should be extended to reduce the chance of tilting backward when no dough tub is present.
-* Mounting holes for control board should align with the MKFG WorkHorse case holes for simple attachment.
 * Fitting the silicone onto the rollers is a bit challenging. Look for a way to improve this part of the assembly process.
-* Lots of nuts and bolts; aim to reduce overall part count where possible.
 * Need to include a simple Arduino+stepper shield example that runs the default speed curve on power-on.
 
 
