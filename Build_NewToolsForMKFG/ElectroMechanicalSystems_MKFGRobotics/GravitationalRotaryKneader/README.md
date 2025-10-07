@@ -36,7 +36,7 @@ Note: This is a fairly advanced maker-level build. You'll need to work with lase
 **To make your own Gravitational Rotary Kneader, you'll need:**
 
 - **1/4" plywood** (5mm or 0.185" thick ply is also perfectly fine) @ **10" x 21.5"** for laser cutting<br/><img src="./Fab_ToLaserCut/MKFG_GravMixer_All_Ply_LightBurn.png" height="196"/> 
-- **PETg** (or PLA) for all printed parts<br/><img src="./Fab_To3DPrint/MKFG_GravKneader_All.png" height="196"/> 
+- **PETG** (or PLA) for all printed parts<br/><img src="./Fab_To3DPrint/MKFG_GravKneader_All.png" height="196"/> 
 - Various **M3 bolts and nuts** to connect all of the components.
   - 26 x [M3@10mm low-profile socket head](https://www.mcmaster.com/90666A105/) bolts
   - 8 x [M3@6mm low-profile socket head](https://www.mcmaster.com/90666A103/) bolts
