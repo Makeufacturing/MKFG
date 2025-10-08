@@ -65,7 +65,6 @@ Note: This is a fairly advanced maker-level build. You'll need to work with lase
 #### Known issues (future things to fix):
 
 * Fitting the silicone onto the rollers is a bit challenging. Look for a way to improve this part of the assembly process.
-* Need to include a simple Arduino+stepper shield example that runs the default speed curve on power-on.
 
 
 
