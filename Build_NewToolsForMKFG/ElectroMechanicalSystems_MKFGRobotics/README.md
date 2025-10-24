@@ -16,54 +16,60 @@ Your specific makeufacturing system may require some alterations, so don't hesit
 
 ### Mixers 
 
-(tumbler, paddle/beater/stir, shaker, rotary, etc.)
+*tumbler, paddle/beater/stir, shaker, rotary, etc.*
 
 * <img src="./GravitationalRotaryKneader/media/gravmixer_a.jpg" width="192"/> <img src="./GravitationalRotaryKneader/media/gravmixer_b.jpg" width="192"/> <img src="./GravitationalRotaryKneader/media/gravmixer_c.jpg" width="192" /><br/>
   **<a href="./GravitationalRotaryKneader/">Gravitational Rotary Kneader</a>**: A low-speed dough kneading machine that rotates a round dough tub over an extended period of time to build gluten structure using the dough's own weight to continually stretch and fold it upon itself.
 
 ### Bulk Feeders 
 
-(control output of a bulk set of items down to N-at-a-time; apron, auger/screw, disc, vibratory bowl/trough, reciprocating, etc.)
+*control output of a bulk set of items down to N-at-a-time; apron, auger/screw, disc, vibratory bowl/trough, reciprocating, etc.*
+
+* [Vibratory Bowl Feeder MKII](https://www.thingiverse.com/thing:2119002) by [VikingNZ](https://www.thingiverse.com/VikingNZ) (uses 385 DC motor w/ eccentric weight)
+* [Vibratory Bowl Feeder MK3](https://www.thingiverse.com/thing:4057174) by [Jordie_796](https://www.thingiverse.com/Jordie_796) (uses 385 DC motor)
+* [Vibratory Trough Feeder](https://www.thingiverse.com/thing:2118961) by [VikingNZ](https://www.thingiverse.com/VikingNZ) (uses 385 DC motor w/ eccentric weight)
+* [Auger/Screw Feeder](https://www.thingiverse.com/thing:958180) by [NorthernLayers](https://www.thingiverse.com/NorthernLayers) (uses NEMA17 stepper motor)
+* [Auger/Screw Feeder](https://www.thingiverse.com/thing:4753380) by [PavelNS](https://www.thingiverse.com/PavelNS) (uses NEMA17 stepper motor)
 
 ### Powder Feeders
 
-(dispensing powders like flour, salt, etc. for baking, or industrial mixes like concrete, sand, etc.)
+*dispensing powders like flour, salt, etc. for baking, or industrial mixes like concrete, sand, etc.*
 
 ### Linear/Rotary Transfer Devices 
 
-(control movement of a set of N items; belt/chain/bucket/mag conveyor, walking beam, powered roller, rotary transfer, etc.)
+*control movement of a set of N items; belt/chain/bucket/mag conveyor, walking beam, powered roller, rotary transfer, etc.*
 
 ### Spool Dispensers
 
-(fabric, sheet metal, string, wire, paper, tape, ribbon, etc. + cut to length)
+*fabric, sheet metal, string, wire, paper, tape, ribbon, etc. + cut to length*
 
 ### Flow Controllers
 
-(pushers, branchers/forkers, etc.)
+*pushers, branchers/forkers, etc.*
 
 ### Presses/Stampers
 
-(Mold forming, marking, fitting, compressing, etc.)
+*Mold forming, marking, fitting, compressing, etc.*
 
 ### Heaters/coolers
 
-(air heaters/coolers, radiant heaters, conduction/peltier heaters/coolers, high-temp/stovetop, etc.)
+*air heaters/coolers, radiant heaters, conduction/peltier heaters/coolers, high-temp/stovetop, etc.*
 
 ### Labelers
 
-(cylindrical/rolling, box/flat)
+*cylindrical/rolling, box/flat*
 
 ### Aligners
 
-(orient, flip, rotate, etc.)
+*orient, flip, rotate, etc.*
 
 ### Packagers
 
-(controlled dispensing into bulk container, box, bag, etc. + closure)
+*controlled dispensing into bulk container, box, bag, etc. + closure*
 
 ### Analyzers 
 
-(color, position, orientation, weight, presence, count, imaging, barcode, etc.)
+*color, position, orientation, weight, presence, count, imaging, barcode, etc.*
 
 ### Complex Operators
 
@@ -78,25 +84,29 @@ Some segments may be significantly more complicated stand-alone devices that fal
 
 ### Pumps 
 
-([paristaltic w/ variable size tubing/flowrate](https://www.amazon.com/Peristaltic-Pump-24V-motor-2200mL/dp/B06XF6KK3T), diaphragm, gravity, etc.)
+*paristaltic, diaphragm, gravity, etc.*
+
+* Reference: [paristaltic w/ variable size tubing/flowrate](https://www.amazon.com/Peristaltic-Pump-24V-motor-2200mL/dp/B06XF6KK3T)
 
 ### Flow Controllers
 
-(valves, restrictors, channel selectors, etc.)
+*valves, restrictors, channel selectors, etc.*
 
 ### Heaters/coolers
 
+*resistive, radiant, heat pump, etc.*
+
 ### Stirrers 
 
-(mag, whisk, etc.)
+*mag, whisk, etc.*
 
 ### Packagers 
 
-(controlled amount of liquid into bulk container, bottles, cans, etc. + closure)
+*controlled amount of liquid into bulk container, bottles, cans, etc. + closure*
 
 ### Analyzers 
 
-(pH, color, disolved solids, weight, flowrate, volume, etc.)
+*pH, color, disolved solids, weight, flowrate, volume, etc.*
 
 
 
@@ -104,21 +114,21 @@ Some segments may be significantly more complicated stand-alone devices that fal
 
 ### Pumps
 
-(vacuums, compressors, etc.)
+*vacuums, compressors, etc.*
 
 ### Flow Controllers
 
-(valves, restrictors, channel selectors, etc.)
+*valves, restrictors, channel selectors, etc.*
 
 ### Heaters/coolers
 
 ### Fillers
 
-(controlled amount of gas into bulk container, bottle, etc. + closure) 
+*controlled amount of gas into bulk container, bottle, etc. + closure*
 
 ### Analyzers
 
-(pressure, color, moisture, VOCs, flowrate, etc.)
+*pressure, color, moisture, VOCs, flowrate, etc.*
 
 
 
