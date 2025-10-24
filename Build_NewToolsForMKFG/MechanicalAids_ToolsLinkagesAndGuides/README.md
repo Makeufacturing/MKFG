@@ -8,9 +8,9 @@ Use these tools to help improve your makeufacturing efforts.
 
 ## Baking
 
-* <img src="./DoughLoader/_hero.jpg" width="128"/><br/>****
+* <img src="./DoughLoader/_hero.jpg" width="128"/><br/>
   **<a href="./DoughLoader/">Dough Loader</a>**: DIY conveyor dough loader, designed for home oven use in artisan baking.
-* <img src="./DoughMixingSticks/_hero.jpg" width="128"/><br/>****
+* <img src="./DoughMixingSticks/_hero.jpg" width="128"/><br/>
   **<a href="./DoughMixingSticks/">Dough Mixing Sticks</a>**: Simple tool for efficiently mixing unto 7kg of dough at a time by hand.
 * <img src="./ModularCoolingRacks/_hero.jpg" width="128"/><br/>**<a href="ModularCoolingRacks">Modular Cooling Racks</a>**: Wall-mounted rack system that allows for multiple full size cooling racks when need, while keeping kitchen space open on non-baking days.
 
