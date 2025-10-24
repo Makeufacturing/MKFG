@@ -4,18 +4,121 @@
 
 Specialized makeufacturing systems that combine sensing, control, and actuation to help in performing semi-automated tasks.
 
+:exclamation: **This is a massive work-in-progress!** If you have relevant open source projects to add to this list, please let us know by sharing your **[thoughts](https://github.com/Makeufacturing/MKFG/discussions)** with the MKFG community.​ Thanks!
+
+Makeufacturing encourages breaking down complex automated tasks into smaller dedicated subsystems (i.e. segments) that can be tested, re-arranged, and joined together as production needs evolve. Depending on what you're production line's <u>subject</u> is (solid, liquid, or gas), various segments have been created for a wide range of applications. 
+
+Your specific makeufacturing system may require some alterations, so don't hesitate to post questions or suggestions if you run into roadblocks or need help getting started.
 
 
-## Baking
+
+## Solids
+
+### Mixers 
+
+(tumbler, paddle/beater/stir, shaker, rotary, etc.)
 
 * <img src="./GravitationalRotaryKneader/media/gravmixer_a.jpg" width="192"/> <img src="./GravitationalRotaryKneader/media/gravmixer_b.jpg" width="192"/> <img src="./GravitationalRotaryKneader/media/gravmixer_c.jpg" width="192" /><br/>
   **<a href="./GravitationalRotaryKneader/">Gravitational Rotary Kneader</a>**: A low-speed dough kneading machine that rotates a round dough tub over an extended period of time to build gluten structure using the dough's own weight to continually stretch and fold it upon itself.
 
+### Bulk Feeders 
+
+(control output of a bulk set of items down to N-at-a-time; apron, auger/screw, disc, vibratory bowl/trough, reciprocating, etc.)
+
+### Powder Feeders
+
+(dispensing powders like flour, salt, etc. for baking, or industrial mixes like concrete, sand, etc.)
+
+### Linear/Rotary Transfer Devices 
+
+(control movement of a set of N items; belt/chain/bucket/mag conveyor, walking beam, powered roller, rotary transfer, etc.)
+
+### Spool Dispensers
+
+(fabric, sheet metal, string, wire, paper, tape, ribbon, etc. + cut to length)
+
+### Flow Controllers
+
+(pushers, branchers/forkers, etc.)
+
+### Presses/Stampers
+
+(Mold forming, marking, fitting, compressing, etc.)
+
+### Heaters/coolers
+
+(air heaters/coolers, radiant heaters, conduction/peltier heaters/coolers, high-temp/stovetop, etc.)
+
+### Labelers
+
+(cylindrical/rolling, box/flat)
+
+### Aligners
+
+(orient, flip, rotate, etc.)
+
+### Packagers
+
+(controlled dispensing into bulk container, box, bag, etc. + closure)
+
+### Analyzers 
+
+(color, position, orientation, weight, presence, count, imaging, barcode, etc.)
+
+### Complex Operators
+
+Some segments may be significantly more complicated stand-alone devices that fall outside the scope of makeufactoring's core abilities. These primarily fall into two major categories:
+
+1. **Robotic arms** for assembly, handling, and machining (highly complicated, expensive, and dangerous)
+2. **Stand-alone external operators** (feed subject in/out of existing off-the-shelf complex/powerful machines via makeufacturing segments: 3D printer, laser cutter, cnc mill/drill/router, pick/place, sewing machine, injection molding, etc.)
 
 
 
+## Liquids
+
+### Pumps 
+
+([paristaltic w/ variable size tubing/flowrate](https://www.amazon.com/Peristaltic-Pump-24V-motor-2200mL/dp/B06XF6KK3T), diaphragm, gravity, etc.)
+
+### Flow Controllers
+
+(valves, restrictors, channel selectors, etc.)
+
+### Heaters/coolers
+
+### Stirrers 
+
+(mag, whisk, etc.)
+
+### Packagers 
+
+(controlled amount of liquid into bulk container, bottles, cans, etc. + closure)
+
+### Analyzers 
+
+(pH, color, disolved solids, weight, flowrate, volume, etc.)
 
 
+
+## Gases
+
+### Pumps
+
+(vacuums, compressors, etc.)
+
+### Flow Controllers
+
+(valves, restrictors, channel selectors, etc.)
+
+### Heaters/coolers
+
+### Fillers
+
+(controlled amount of gas into bulk container, bottle, etc. + closure) 
+
+### Analyzers
+
+(pressure, color, moisture, VOCs, flowrate, etc.)
 
 
 
