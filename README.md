@@ -4,7 +4,7 @@
 
 **[Makeufacturing](https://mkfg.org)** (#mkfg) builds on the maker movement to form a sustainable ***maker economy***, putting the means of production into the hands of makers themselves to **create unique, inventive products** and **produce them at scale** with their own **accessible and open source** methods.
 
-[TOC]
+
 
 ## What is it?
 
@@ -19,6 +19,8 @@ In comparison, a **makeufacturing bakery costs about 100x less** (~\$1,250 to st
 **Makeufacturers can start by automating only the most time-consuming or mundane tasks** and don't need to take on the whole production process at once. For example, an electronic project may require dozens of little wires to be cut to specific lengths and puting together a basic system that does all the wire cutting could drastically increase output, consistency, and overall enjoyment for the maker. As the need for additional automation grows, so can the scale and complexity of each product's makeufacturing system.
 
 Beyond being a less expensive alternative for many aspects of production, **makeufacturing gives makers the ability to tinker and experiment with the production process itself**. Every product at the end of the line doesn't have to look and function the same. Each *makeufactory* has the potential to become an intrinsic part of the value of its products; each is a local, unique, open, and inspiring process.
+
+
 
 ## How does it work?
 
