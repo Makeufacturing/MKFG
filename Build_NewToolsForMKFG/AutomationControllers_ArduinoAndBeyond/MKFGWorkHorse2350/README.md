@@ -17,8 +17,8 @@ For many mkfg builds, the **specific core needs include**:
 - <b>control</b>: a microcontroller such as an Arduino / Pi Pico / Teensy / ESP32 / etc.
 - <b>inputs</b>: a universal I2C port for various plug-n-play sensors via Qwiic/STEMMA QT
 - <b>user interface</b>: a common user interface with buttons, push-button knob/encoder, basic screen, multicolor LED, and notification speaker
-- <b>automation outputs</b>: medium power actuator control outputs &mdash; upto 2 stepper motors, 2 DC motors/solenoids/vibe, and 2 servos
-- <b>power</b>: integrated 12V power handling to safely supply the full range of needed voltages &mdash; 12V motors / 5V servos / 3.3V I2C/GPIO
+- <b>automation outputs</b>: simple, reliable, medium power actuator control outputs &mdash; 2 silent stepper motor drivers (2.0A continuous, 2.8A max/peak), 2 PWM-controllable DC motors/solenoids/vibe (1.2A continuous, 3.2A peak/max), and 2 servos (power by 5V, 1.2A max/peak).
+- <b>power</b>: integrated 12V power handling (up to 5A if needed) to safely supply the full range of needed voltages &mdash; 12V motors / 5V servos / 3.3V GPIO+I2C
 
 So we made a simple credit card-sized board, the **MKFG WorkHorse**, that includes all of that together; it's built around **open source hardware, software, and mechanical engineering projects** that allow any curious tinkerers to get their hands dirty and build whatever is needed.
 

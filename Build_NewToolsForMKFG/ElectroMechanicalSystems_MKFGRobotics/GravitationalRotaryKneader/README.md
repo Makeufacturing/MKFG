@@ -33,6 +33,8 @@ Note: This is a fairly advanced maker-level build. You'll need to work with lase
 
 <img src="./media/gravmixer_a.jpg" width="192"/> <img src="./media/gravmixer_b.jpg" width="192"/> <img src="./media/gravmixer_c.jpg" width="192" /><br/>
 
+### Parts List
+
 **To make your own Gravitational Rotary Kneader, you'll need:**
 
 - **1/4" plywood** (5mm or 0.185" thick ply is also perfectly fine) @ **10" x 21.5"** for laser cutting<br/><img src="./Fab_ToLaserCut/MKFG_GravMixer_All_Ply_LightBurn.png" height="196"/> 
@@ -42,13 +44,11 @@ Note: This is a fairly advanced maker-level build. You'll need to work with lase
   - 8 x [M3@6mm low-profile socket head](https://www.mcmaster.com/90666A103/) bolts
   - 34 x [M3 hex nuts](https://www.mcmaster.com/91828A211/)
   - For MKFG board case:
-    - 2 x [M3@10mm low-profile socket head](https://www.mcmaster.com/90666A105/) bolts
+    - 3 x [M3@10mm low-profile socket head](https://www.mcmaster.com/90666A105/) bolts
     - 2 x [M3@14mm flanged button head](https://www.mcmaster.com/97654A205/)  bolts (attach through 4-7mm wood)
-    - 1 x [M3@10mm hex head](https://www.mcmaster.com/91287A014/) (2mm head height) bolt, internal, to provide mounting post out back
     - 1 x [M3 hex nuts](https://www.mcmaster.com/91828A211/) (for use on mounting post)
-
 - 3 x **608 bearings** (for rear bearing support)
-- 3 x **8mm@18-20mm** long shafts (for rear bearing support)
+- 3 x **8mm@18-20mm** long shafts (for rear bearing support, like [these](https://www.mcmaster.com/97049A223/))
 - 2 x **NEMA 17** stepper motors
 - 2 x **5mm@50mm** long shafts (for rollers)
 - 2 x **MRZ105 bearings** (for rollers)
@@ -61,8 +61,23 @@ Note: This is a fairly advanced maker-level build. You'll need to work with lase
 
 
 
+### Build Steps
 
-#### Known issues (future things to fix):
+1. Laser cut the 1/4" thick plywood:
+   1. You can use the 2 .dxf files (make sure to include two side pieces) or open the LightBurn file directly.
+   2. After you've cut the wood, make sure to remove any char around the edges (a wet paper towel goes a long way).
+   3. Add a coat of paint to seal the wood.
+2. 3D print plastic parts:
+   1. 
+3. Wiring:
+   1. Stepper motors: Bi-polar stepper motors use 4 pins each. **The order of the pins is important** -- if the wires for your motor are ordered differently, make sure to swap them around so that they are correct!
+      * You can carefully use a knife to lift up the plastic retaining nib and slide out the wire/contact. Then place it where you want it and re-insert. It should click into place and feel secure.
+   2. Power: Connect the 12V DC power plug into the jack.
+
+
+
+
+## Known issues (future things to fix):
 
 * Fitting the silicone onto the rollers is a bit challenging. Look for a way to improve this part of the assembly process.
 

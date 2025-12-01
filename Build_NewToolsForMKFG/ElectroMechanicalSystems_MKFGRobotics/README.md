@@ -43,6 +43,8 @@ Your specific makeufacturing system may require some alterations, so don't hesit
 
 *fabric, sheet metal, string, wire, paper, tape, ribbon, etc. + cut to length*
 
+* [Wire Stripper/Cutter](https://www.thingiverse.com/thing:5599845) by [electricdiylab](https://www.thingiverse.com/electricdiylab) (2 x NEMA17 stepper + servo + wire cutters)
+
 ### Flow Controllers
 
 *pushers, branchers/forkers, etc.*
@@ -54,6 +56,12 @@ Your specific makeufacturing system may require some alterations, so don't hesit
 ### Heaters/coolers
 
 *air heaters/coolers, radiant heaters, conduction/peltier heaters/coolers, high-temp/stovetop, etc.*
+
+### Encasers/Wrappers
+
+*wire wrapping, pre-packaging, sealing, etc.*
+
+* [Wire Wrapper](https://electricdiylab.com/diy-arduino-based-wire-harness-wrapping-machine/) by  [sandeep](https://electricdiylab.com/author/howtocircuitadmin/)
 
 ### Labelers
 

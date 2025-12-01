@@ -4,7 +4,7 @@
 
 The right tool can make all the difference. Even if it's just a simple stick of wood or organization caddy to make your process more efficient and easier to perform. 
 
-Use these tools to help improve your makeufacturing efforts.
+Use these tools to help improve your makeufacturing efforts, **organized by usage/domain:**
 
 ## Baking
 
